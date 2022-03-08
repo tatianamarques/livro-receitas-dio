@@ -1,5 +1,5 @@
-# Livro de receitas :cook
-Olá! Bem-vindo(a) ao meu livro de receitas :wave
+# Livro de receitas 
+Olá! Bem-vindo(a) ao meu livro de receitas 
  - Strogonoff Vegetariano
  
 
